@@ -1,0 +1,2 @@
+# ngnix-deploy
+ngnix deploy
